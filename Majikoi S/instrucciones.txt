@@ -1,0 +1,9 @@
+Instrucciones
+
+- Copiar y pegar los archivos del .zip en el directorio del juego. 
+- Instalar la fuente GrisaiaCustom adjunta en el parche.
+
+Abrimos el juego y nos vamos a config.
+Le damos click al botón message y vamos a donde pone font.
+Escogemos "GrisaiaCustom"
+Recordad tener la configuración regional en japonés

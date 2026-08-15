@@ -1,13 +1,19 @@
 # Cómo reportar errores
-Vayan a la pestaña Issues y clicken en new Issues. Para reportar errores en un parche se recomienda lo siguiente:
+Ve a la pestaña Issues y haz click en el botón "New Issue".
+Para reportar errores en un parche se recomienda lo siguiente:
+
 > 1- Añadir título novela<br/>
 > 2- Descripción<br/>
 > 3- Adjuntar captura pantalla si es posible
 
 # Cómo Descargar
-Los parches anteriores al 08/04/2022 subidos a git estarán en el apartado de Release, los más nuevos estarán en su correspondiente carpeta en el repo.
+Puedes encontrar los parches en la carpeta correspondiente de este repositorio.
+Los parches anteriores al 08/04/2022 se pueden encontrar también en el apartado "Release"
 
 # Registro de actividades
+20/04/2024 
+> Añadidas las releases anteriores al 08/04/2022 junto al resto del repositorio.<br/>
+
 04/07/2022
 > Nueva versión del parche completo de Marco & la Galaxia Dragón arreglando errores.<br/>
 
