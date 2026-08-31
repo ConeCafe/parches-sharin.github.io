@@ -1,0 +1,2 @@
+Copiar y pegar las carpetas del comprimido en el directorio del juego.
+Este parche solo funciona con la versión +18 (versión steam y DLC +18)
