@@ -1,0 +1,3 @@
+Copien y peguen el .xp3 en el directorio del juego.
+No funciona en la versión física (tiene archivos .noa)
+Funciona únicamente en la versión digital (verán archivos .xp3, traten de buscar haruka na sora english por ejemplo para que les salga la versión digital)
