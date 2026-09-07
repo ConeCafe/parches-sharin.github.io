@@ -28,7 +28,6 @@ Aquí podrás navegar por nuestros proyectos, descargar los archivos de traducci
 2. **Descarga de archivos:** Haz clic en `📥 Descargar` para obtener el archivo del parche (`.rar`, `.zip` o `.xp3`).
 3. **Instrucciones:** Te recomendamos leer siempre el archivo 📄 `instrucciones.txt` antes de aplicar los parches.
 
-> **Nota:** Si tienes tu entorno configurado con **GitHub Pages** (terminación `.github.io`), este mismo archivo actuará como la página de inicio de tu sitio web, manteniendo todos los botones de descarga 100% operativos.
 
 <div align="center">
   <br>
