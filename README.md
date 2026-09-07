@@ -19,6 +19,7 @@ Aquí podrás navegar por nuestros proyectos, descargar los archivos de traducci
 | 🌸 [**Sakura-iro Dreamer**](./Sakura-iro%20Dreamer) | `Completo` | 📥 [Descargar patch.xp3](./Sakura-iro%20Dreamer/patch.xp3) <br> 📄 [Leer Instrucciones](./Sakura-iro%20Dreamer/instrucciones.txt) |
 | 🌊 [**Sea Bed**](./Sea%20Bed) | `Completo` | 📥 [Descargar patch.xp3](./Sea%20Bed/patch.xp3) |
 | ☁️ [**Yosuga no Sora**](./Yosuga%20no%20Sora) | `Completo` | 📥 [Descargar system.rar](./Yosuga%20no%20Sora/system.rar) <br> 📄 [Leer Instrucciones](./Yosuga%20no%20Sora/instrucciones.txt) |
+| 🌈 [**Haruka na Sora**](./Haruka%20na%20Sora) | `Completo` | 📥 [Descargar patch.xp3](./Haruka%20na%20Sora/patch.xp3) <br> 📄 [Leer Instrucciones](./Haruka%20na%20Sora/instrucciones.txt) |
 
 ---
 
