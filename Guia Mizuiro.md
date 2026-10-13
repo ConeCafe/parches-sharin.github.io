@@ -127,7 +127,7 @@ flowchart TD
 ---
 
 ### 📖 小野崎 清香 (Kiyoka Onozaki)
-> *La chica tímida con gafas de la biblioteca y amante de la lectura.*
+> *La chica compañera de clase con un lazo enorme.*
 
 **Pasos en la Infancia:**
 1. `■それでもサッカーに行く` *(Aun así voy al fútbol)*
