@@ -112,7 +112,7 @@ flowchart TD
 ---
 
 ### 🧢 進藤 むつき (Mutsuki Shindou)
-> *La chica atlética y extrovertida de la gorra que Kenji conoce en el campo de fútbol.*
+> *La chica atlética y extrovertida que Kenji conoce en el campo de fútbol.*
 
 **Pasos en la Infancia:**
 1. `■それでもサッカーに行く` *(Aun así voy al fútbol)*
