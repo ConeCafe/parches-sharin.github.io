@@ -25,7 +25,7 @@ Guía completa de progresión de rutas y selección de heroínas para *Mizuiro R
 | Ruta | Heroína | Rol / Descripción |
 |:---:|:---|:---|
 | **1** | **早坂 日和** (Hiyori Hayasaka) | Amiga de la infancia y vecina enérgica. |
-| **2** | **片瀬 雪希** (Yuki Katase) | Amiga de la infancia, dulce y reservada (Heroína principal). |
+| **2** | **片瀬 雪希** (Yuki Katase) | Amiga de la infancia, dulce y reservada. |
 | **3 / 5** | **神津 麻美** (Asami Maeda) | Senpai carismática del instituto. |
 | **4** | **小野崎 清香** (Kiyoka Onozaki) | Compañera tímida aficionada a los libros. |
 | **7** | **若草 冬佳** (Fuka Wakakusa) | Profesora tutora (Fuka-sensei). |
