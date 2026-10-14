@@ -29,7 +29,7 @@ Guía completa de progresión de rutas y selección de heroínas para *Mizuiro R
 | **3 / 5** | **神津 麻美** (Asami Maeda) | Senpai carismática del instituto. |
 | **4** | **小野崎 清香** (Kiyoka Onozaki) | Compañera tímida aficionada a los libros. |
 | **7** | **若草 冬佳** (Fuka Wakakusa) | Profesora tutora (Fuka-sensei). |
-| **8** | **進藤 むつき** (Mutsuki Shindou) | Amiga atlética y espontánea de la gorra. |
+| **8** | **進藤 むつき** (Mutsuki Shindou) | Amiga atlética y espontánea. |
 | **Extra** | **ν日和** (Nu-Hiyori) | Variante cómica secreta de Hiyori. |
 
 ---
