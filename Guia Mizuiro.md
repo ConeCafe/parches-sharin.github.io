@@ -89,7 +89,7 @@ flowchart TD
 ---
 
 ### ☀️ 早坂 日和 (Hiyori Hayasaka)
-> *La vecina y amiga de la infancia revoltosa y enérgica de Kenji.*
+> *La amiga de la infancia del protagonista.*
 
 **Pasos en la Infancia:**
 1. `■サッカーはとりやめ` *(Cancelo el partido de fútbol)*
@@ -98,7 +98,7 @@ flowchart TD
 *(Al completar esta ruta se desbloquea el escenario especial en el menú principal).*
 
 ### 🌸 片瀬 雪希 (Yuki Katase)
-> *La amiga de la infancia dulce, tranquila y devota. La ruta central de Mizuiro.*
+> *Hermanastra del protagonista.*
 
 **Pasos en la Infancia:**
 1. `■それでもサッカーに行く` *(Aun así voy al fútbol)*
@@ -113,7 +113,7 @@ flowchart TD
 ---
 
 ### 🧢 進藤 むつき (Mutsuki Shindou)
-> *La chica atlética y extrovertida que Kenji conoce en el campo de fútbol.*
+> *La mejor amiga de Yuki.*
 
 **Pasos en la Infancia:**
 1. `■それでもサッカーに行く` *(Aun así voy al fútbol)*
@@ -128,7 +128,7 @@ flowchart TD
 ---
 
 ### 📖 小野崎 清香 (Kiyoka Onozaki)
-> *La chica compañera de clase con un lazo enorme.*
+> *Amiga de la infancia del protagonista, con un lazo enorme.*
 
 **Pasos en la Infancia:**
 1. `■それでもサッカーに行く` *(Aun así voy al fútbol)*
@@ -145,7 +145,7 @@ flowchart TD
 ---
 
 ### 👑 神津 麻美 (Asami Maeda / 麻美先輩)
-> *La carismática y admirada senpai del instituto.*
+> *Una senpai peculiar.*
 
 **Pasos en la Infancia:**
 1. `■それでもサッカーに行く` *(Aun así voy al fútbol)*
@@ -162,7 +162,7 @@ flowchart TD
 ---
 
 ### ☕ 若草 冬佳 (Fuka Wakakusa / 冬佳先生)
-> *La comprensiva y serena profesora tutora.*
+> *Profesora de la escuela del protagonista.*
 
 **Pasos en la Infancia:**
 1. `■それでもサッカーに行く` *(Aun así voy al fútbol)*
@@ -187,7 +187,7 @@ flowchart TD
 
 ## 5. Contenidos Extra y Desbloqueables
 
-- **After Story de Yuki**: Se desbloquea tras alcanzar el final de Yuki. Permite ver el epílogo y las CGs finales.
+- **After Story de Yuki**: Se desbloquea tras alcanzar el final de Yuki y alguna otra que no me acuerdo. Permite ver el epílogo y las CGs finales.
 - **Escenario "Mizuiro" en Menú Principal**: Se desbloquea tras finalizar la ruta de Hiyori.
 - **Staff Room (Sala del Personal)**: Accesible desde los extras tras completar el juego. El programador original Chouhata incluye comentarios y la guía de rutas oficial.
 - **Historias Omake**:
