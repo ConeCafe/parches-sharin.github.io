@@ -86,6 +86,17 @@ flowchart TD
 
 ## 4. Guía Paso a Paso por Heroína
 
+---
+
+### ☀️ 早坂 日和 (Hiyori Hayasaka)
+> *La vecina y amiga de la infancia revoltosa y enérgica de Kenji.*
+
+**Pasos en la Infancia:**
+1. `■サッカーはとりやめ` *(Cancelo el partido de fútbol)*
+2. `■やっぱり日和と一緒に` *(Quedarme con Hiyori después de todo)*
+
+*(Al completar esta ruta se desbloquea el escenario especial en el menú principal).*
+
 ### 🌸 片瀬 雪希 (Yuki Katase)
 > *La amiga de la infancia dulce, tranquila y devota. La ruta central de Mizuiro.*
 
@@ -98,16 +109,6 @@ flowchart TD
 6. `■むかえに行ってやらないと` *(Tengo que ir a buscarla)*
 7. `■代わりに指輪をあげるかな` *(Quizá deba regalarle un anillo en su lugar)*
 
----
-
-### ☀️ 早坂 日和 (Hiyori Hayasaka)
-> *La vecina y amiga de la infancia revoltosa y enérgica de Kenji.*
-
-**Pasos en la Infancia:**
-1. `■サッカーはとりやめ` *(Cancelo el partido de fútbol)*
-2. `■やっぱり日和と一緒に` *(Quedarme con Hiyori después de todo)*
-
-*(Al completar esta ruta se desbloquea el escenario especial en el menú principal).*
 
 ---
 
