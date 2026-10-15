@@ -28,7 +28,7 @@ Guía completa de progresión de rutas y selección de heroínas para *Mizuiro R
 | **2** | **片瀬 雪希** (Yuki Katase) | Amiga de la infancia, dulce y reservada. |
 | **3 / 5** | **神津 麻美** (Asami Maeda) | Senpai carismática del instituto. |
 | **4** | **小野崎 清香** (Kiyoka Onozaki) | Compañera de clase con un lazo enorme. |
-| **7** | **若草 冬佳** (Fuka Wakakusa) | Profesora tutora (Fuka-sensei). |
+| **7** | **若草 冬佳** (Fuyuka Ishikawa) | Profesora tutora. |
 | **8** | **進藤 むつき** (Mutsuki Shindou) | Amiga atlética y espontánea. |
 | **Extra** | **ν日和** (Nu-Hiyori) | Variante cómica secreta de Hiyori. |
 
@@ -161,8 +161,8 @@ flowchart TD
 
 ---
 
-### ☕ 若草 冬佳 (Fuka Wakakusa / 冬佳先生)
-> *Profesora de la escuela del protagonista.*
+### ☕ 若草 冬佳 (Fuyuka Ishikawa / 冬佳先生)
+> *Profesora particular del protagonista.*
 
 **Pasos en la Infancia:**
 1. `■それでもサッカーに行く` *(Aun así voy al fútbol)*
