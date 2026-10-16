@@ -108,8 +108,8 @@ flowchart TD
 5. `■雪希の夢` *(El sueño de Yuki)*
 6. `■むかえに行ってやらないと` *(Tengo que ir a buscarla)*
 7. `■代わりに指輪をあげるかな` *(Quizá deba regalarle un anillo en su lugar)*
-Esta ruta tiene dos finales, uno bueno y el otro normal
 
+*(Esta ruta tiene dos finales, uno bueno y el otro normal).*
 ---
 
 ### 🧢 進藤 むつき (Mutsuki Shindou)
@@ -172,7 +172,7 @@ Esta ruta tiene dos finales, uno bueno y el otro normal
 5. `■雪希の夢` *(El sueño de Yuki)*
 6. `■むかえに行ってやらないと` *(Tengo que ir a buscarla)*
 7. `■あんなもん渡しても喜ばないだろ` *(No se va a alegrar si le doy una cosa así)*
-Esta ruta tiene dos finales, uno bueno y el otro normal
+*(Esta ruta tiene dos finales, uno bueno y el otro normal).*
 ---
 
 ### 🌀 ν日和 (Nu-Hiyori)
