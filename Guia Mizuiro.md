@@ -108,7 +108,7 @@ flowchart TD
 5. `■雪希の夢` *(El sueño de Yuki)*
 6. `■むかえに行ってやらないと` *(Tengo que ir a buscarla)*
 7. `■代わりに指輪をあげるかな` *(Quizá deba regalarle un anillo en su lugar)*
-
+Esta ruta tiene dos finales, uno bueno y el otro normal
 
 ---
 
@@ -172,7 +172,7 @@ flowchart TD
 5. `■雪希の夢` *(El sueño de Yuki)*
 6. `■むかえに行ってやらないと` *(Tengo que ir a buscarla)*
 7. `■あんなもん渡しても喜ばないだろ` *(No se va a alegrar si le doy una cosa así)*
-
+Esta ruta tiene dos finales, uno bueno y el otro normal
 ---
 
 ### 🌀 ν日和 (Nu-Hiyori)
@@ -187,7 +187,7 @@ flowchart TD
 
 ## 5. Contenidos Extra y Desbloqueables
 
-- **After Story de Yuki**: Se desbloquea tras alcanzar el final de Yuki y alguna otra que no me acuerdo. Permite ver el epílogo y las CGs finales.
+- **After Story de Yuki**: Se desbloquea tras alcanzar el final de Yuki verdadero. OJO, esta ruta tiene dos finales, si sacas el normal, no podrás verlo. Permite ver el epílogo y las CGs finales.
 - **Escenario "Mizuiro" en Menú Principal**: Se desbloquea tras finalizar la ruta de Hiyori.
 - **Staff Room (Sala del Personal)**: Accesible desde los extras tras completar el juego. El programador original Chouhata incluye comentarios y la guía de rutas oficial.
 - **Historias Omake**:
