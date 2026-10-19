@@ -28,7 +28,7 @@ Guía completa de progresión de rutas y selección de heroínas para *Mizuiro R
 | **2** | **片瀬 雪希** (Yuki Katase) | Amiga de la infancia y hermanastra. |
 | **3 / 5** | **神津 麻美** (Asami Maeda) | Senpai algo peculiar. |
 | **4** | **小野崎 清香** (Kiyoka Onozaki) | Compañera de clases con un lazo enorme. |
-| **7** | **若草 冬佳** (Fuyuka) | Profesora tutora. |
+| **7** | **若草 冬佳** (Fuyuka Ishikawa) | Profesora tutora. |
 | **8** | **進藤 むつき** (Mutsuki Shindou) | Amiga de Yuki y su compañera de clases. |
 | **Extra** | **ν日和** (Nu-Hiyori) | Variante cómica secreta de Hiyori. |
 
@@ -244,7 +244,7 @@ Para acceder al **Epílogo** y desbloquear el **After Story**, se requiere acumu
 
 ---
 
-### ☕ 若草 冬佳 (Fuyuka / 冬佳先生)
+### ☕ 若草 冬佳 (Fuyuka Ishikawa / 冬佳先生)
 
 **Pasos en la Infancia:**
 1. `■Ir al fútbol de todos modos` (`■それでもサッカーに行く`)
